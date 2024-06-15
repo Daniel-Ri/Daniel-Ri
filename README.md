@@ -1,5 +1,5 @@
 # 💬 Introduction
-Hello! My name is [Daniel Riyanto](https://www.linkedin.com/in/daniel-riyanto-34b08b1aa/) from Medan, Indonesia. I'm a fresh graduate majoring in Informatics Engineering at Bandung Institute of Technology (ITB). I'm interested in website development and software engineering. I'm currently open to work and eager to apply my skills in a professional setting. Feel free to check out my repositories and get in touch with me!
+Hello! My name is [Daniel Riyanto](https://www.linkedin.com/in/daniel-riyanto-34b08b1aa/) from Medan, Indonesia. I graduated with a degree in Informatics Engineering from Bandung Institute of Technology (ITB). I'm interested in website development and software engineering. I'm currently open to work and eager to apply my skills in a professional setting. Feel free to check out my repositories and get in touch with me!
 
 # 📌 Projects
 Project | Description | Language or tech stack used
